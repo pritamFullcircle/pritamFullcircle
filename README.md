@@ -113,7 +113,7 @@ const pritam: Developer = {
 
 ---
 
-## 🎯 2025 Roadmap
+## 🎯 2026 Roadmap
 
 <div align="center">
 
@@ -233,6 +233,6 @@ console.log("Ready to make an impact! ✨");
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6,2,0&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*Last updated: July 2, 2025 | Crafted with 💙 and lots of ☕*
+*Last updated: July 2, 2026 | Crafted with 💙 and lots of ☕*
 
 </div>
